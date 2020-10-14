@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://ibb.co/pwbccdG" alt="Home"></a>
+  <img width="100%" height="100%" src="https://i.ibb.co/3177Txt/Screenshot-2020-10-14-163432.png" alt="Home"></a>
 </p>
 ---
 
