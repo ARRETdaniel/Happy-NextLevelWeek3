@@ -17,5 +17,5 @@
 ---
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/Zrvf8qB.jpg" alt="GPS"></a>
+  <img width="100%" height="100%" src="https://i.ibb.co/3f9gQ9L/Screenshot-2020-10-14-163645.png" alt="GPS"></a>
 </p>
