@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/YW9dNan.png" alt="Player music"></a>
+  <img width="100%" height="100%" src="https://i.imgur.com/YW9dNan.png" alt="Home"></a>
 </p>
 ---
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/Zrvf8qB.jpg" alt="Player music"></a>
+  <img width="100%" height="100%" src="https://i.imgur.com/Zrvf8qB.jpg" alt="GPS"></a>
 </p>
