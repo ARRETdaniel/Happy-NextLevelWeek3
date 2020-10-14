@@ -6,7 +6,7 @@
 
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ARRETdaniel/Happy-NextLevelWeek3">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ARRETdaniel/Happy-NextLevelWeek33">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ARRETdaniel/Happy-NextLevelWeek3">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ARRETdaniel/Happy-NextLevelWeek3">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ARRETdaniel/Happy-NextLevelWeek3">
 </p>
